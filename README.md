@@ -1,4 +1,4 @@
-# july-leetocode
+# July LeetCode Challenge
 Solutions for July Leetcode Challege
 
 ## Day 1:
