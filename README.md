@@ -1,5 +1,7 @@
 # July LeetCode Challenge
 Solutions for July 2020 Leetcode Challege
+## [Challenge Card Here!](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/)
+
 
 ## NOTE: Questions for these challenges appear at 12:30[At Noon] India Time(IST).
 
