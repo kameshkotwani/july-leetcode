@@ -16,7 +16,7 @@ Solutions for July 2020 Leetcode Challege
 | July 7| [Island Perimeter](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/) | [`C++`](https://github.com/kameshkotwani/july-leetcode/blob/master/island-permieter.cpp)|
 |July 8|[3Sum](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)|[`C++`](https://github.com/kameshkotwani/july-leetcode/blob/master/3sum.cpp)|
 |July 9|[Maximum Width Of a Binary Tree](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/)|[`C++`](https://github.com/kameshkotwani/july-leetcode/blob/master/maximum-width-of-binary-tree.cpp)|
-|July 10|[`in-works`]|[`in-works`]|
+|July 10|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/)|[`in-works`]|
 |July 11|[`in-works`]|[`in-works`]|
 |July 12|[`in-works`]|[`in-works`]|
 |July 13|[`in-works`]|[`in-works`]|
