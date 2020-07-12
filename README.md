@@ -18,7 +18,7 @@ Solutions for July 2020 Leetcode Challege
 |July 9|[Maximum Width Of a Binary Tree](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/)|[`C++`](https://github.com/kameshkotwani/july-leetcode/blob/master/maximum-width-of-binary-tree.cpp)| Medium|
 |July 10|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/)|[`C++`](https://github.com/kameshkotwani/july-leetcode-challenge/blob/master/flatten-multilevel-doubly-linked-list.cpp)| Medium|
 |July 11|[Subsets](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/)|[`C++`](https://github.com/kameshkotwani/july-leetcode-challenge/blob/master/subsets.cpp)|Medium|
-|July 12|[`in-works`]|[`in-works`]|
+|July 12|[Reverse Bits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)|[`C++a`]|
 |July 13|[`in-works`]|[`in-works`]|
 |July 14|[`in-works`]|[`in-works`]|
 |July 15|[`in-works`]|[`in-works`]|
