@@ -21,7 +21,7 @@ Solutions for July 2020 Leetcode Challege
 |July 12|[Reverse Bits](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)|[`C++`](https://github.com/kameshkotwani/july-leetcode-challenge/blob/master/reverse-bits.cpp)|Easy|
 |July 13|[Same Tree](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3389/)|[`C++`](https://github.com/kameshkotwani/july-leetcode-challenge/blob/master/same-tree.cpp)|Easy|
 |July 14|[Angle Between Hands of Clock](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)|[`C++`](https://github.com/kameshkotwani/july-leetcode-challenge/blob/master/angle-between-hands-of-clock.cpp)|Easy|
-|July 15|[Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)|[`in-works`]|Medium|
+|July 15|[Reverse Words in a String](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)|[`C++`](https://github.com/kameshkotwani/july-leetcode-challenge/blob/master/reverse-words-in-a-string.cpp)|Medium|
 |July 16|[`in-works`]|[`in-works`]|
 |July 17|[`in-works`]|[`in-works`]|
 
