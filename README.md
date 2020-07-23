@@ -29,6 +29,7 @@ Solutions for July 2020 Leetcode Challege
 |July 20|[Remove Linked List Elements](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/) |[`C`](https://github.com/kameshkotwani/july-leetcode-challenge/blob/master/remove-linked-list-elements.c)|Easy|
 |July 21|[Word Search](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/) |[`C++`](https://github.com/kameshkotwani/july-leetcode-challenge/blob/master/word-search.cpp)|Medium|
 |July 22|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/) |[`C++`](https://github.com/kameshkotwani/july-leetcode-challenge/blob/master/binary-tree-zigzag-order-traversal.cpp)|Medium|
+|July 23|[Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/) |[`C++`]|Medium|
 
 
 
