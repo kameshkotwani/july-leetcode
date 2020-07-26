@@ -32,6 +32,7 @@ Solutions for July 2020 Leetcode Challege
 |July 23|[Single Number III](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/) |[`C++`](https://github.com/kameshkotwani/july-leetcode-challenge/blob/master/single-number-iii.cpp)|Medium|
 |July 24|[All Paths From Source To Target](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/) |[`C++`](https://github.com/kameshkotwani/july-leetcode-challenge/blob/master/all-path-from-source-to-target.cpp)|Medium|
 |July 25|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/)|[`C++`](https://github.com/kameshkotwani/july-leetcode-challenge/blob/master/find-minimum-in-rotated-sorted-array-ii.cpp)|Medium|
+|July 26|[Add Digits](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/)|[`C++`](https://github.com/kameshkotwani/july-leetcode-challenge/blob/master/add-digits.cpp)|Easy|
 
 
 
